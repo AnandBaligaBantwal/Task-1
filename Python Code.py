@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 original_df = pd.read_csv(
     "C:\\Users\\abali\\Downloads\\marketing_campaign.csv", sep="\t"
