@@ -99,3 +99,4 @@ new_column_order = [
 df = df[new_column_order]
 
 df
+df.to_csv("updated_CPA_dataset.csv", index=False)
