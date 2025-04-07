@@ -12,4 +12,6 @@ Dataset used: Customer Personality Analysis
 2) using pandas, seperated values with \t seperator
 3) chekced for missing values, imputed missing values with median
 4) checked for duplicates
-5) 
+5) renamed column names
+6) changed data types for 'Year' and 'Dt_Customers'
+
